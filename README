@@ -1,0 +1,4 @@
+
+where to use variable in {}
+const {id}
+const id
